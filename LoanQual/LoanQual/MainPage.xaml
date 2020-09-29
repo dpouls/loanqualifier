@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoanQual.MainPage">
+
+    <StackLayout>
+        <Entry x:Name="YearsEntry"
+               Placeholder="Enter Years on Job"
+               FontSize="25"
+               Margin="30"/>
+        <Entry x:Name="SalaryEntry"
+               Placeholder="Enter Annual Salary"
+               FontSize="25"
+               Margin="30"/>
+        <Button x:Name="btnQualify"
+                Text="Qualify?"
+                FontSize="30"
+                Padding="0,20"
+                VerticalOptions="CenterAndExpand"
+                Margin="30"
+                Clicked="btnQualify_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

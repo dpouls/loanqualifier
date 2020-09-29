@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\bin\Debug\netstandard2.0\LoanQual.deps.json
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\bin\Debug\netstandard2.0\LoanQual.dll
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\bin\Debug\netstandard2.0\ref\LoanQual.dll
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\bin\Debug\netstandard2.0\LoanQual.pdb
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\LoanQual.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\LoanQual.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\LoanQual.AssemblyInfo.cs
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\LoanQual.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\LoanQual.dll
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\ref\LoanQual.dll
+C:\Users\dalli\source\repos\LoanQual\LoanQual\LoanQual\obj\Debug\netstandard2.0\LoanQual.pdb
